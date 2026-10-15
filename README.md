@@ -34,17 +34,20 @@
 
 ## 演示短片
 
-### 演示一：肥猫与蝴蝶
-
-[![演示一：肥猫与蝴蝶](demos/demo-01.jpg)](demos/demo-01.mp4)
-
-[▶ 点击封面或这里观看演示短片一](demos/demo-01.mp4)
-
-### 演示二：鹦鹉与肥猫
-
-[![演示二：鹦鹉与肥猫](demos/demo-02.jpg)](demos/demo-02.mp4)
-
-[▶ 点击封面或这里观看演示短片二](demos/demo-02.mp4)
+<table>
+<tr>
+<th>肥猫与蝴蝶 · 15 秒</th>
+<th>鹦鹉与肥猫 · 14 秒</th>
+</tr>
+<tr>
+<td align="center"><img src="demos/demo-01.jpg" height="220" alt="演示一：肥猫与蝴蝶"></td>
+<td align="center"><img src="demos/demo-02.jpg" height="220" alt="演示二：鹦鹉与肥猫"></td>
+</tr>
+<tr>
+<td align="center"><a href="demos/demo-01.mp4">下载演示一原片</a></td>
+<td align="center"><a href="demos/demo-02.mp4">下载演示二原片</a></td>
+</tr>
+</table>
 
 ## 能力与边界
 
