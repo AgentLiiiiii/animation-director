@@ -34,20 +34,36 @@
 
 ## 演示短片
 
+点击小封面可单独观看；也可以展开下方播放器在本页播放。
+
 <table>
 <tr>
 <th>肥猫与蝴蝶 · 15 秒</th>
 <th>鹦鹉与肥猫 · 14 秒</th>
 </tr>
 <tr>
-<td align="center"><img src="demos/demo-01.jpg" height="220" alt="演示一：肥猫与蝴蝶"></td>
-<td align="center"><img src="demos/demo-02.jpg" height="220" alt="演示二：鹦鹉与肥猫"></td>
+<td align="center"><a href="https://github.com/user-attachments/assets/bebda8ef-c458-433f-b5fe-a4be94ce7e21"><img src="demos/demo-01.jpg" height="180" alt="点击播放：肥猫与蝴蝶"></a></td>
+<td align="center"><a href="https://github.com/user-attachments/assets/4f4012a0-bdc6-4b9d-87dc-2a7f2faf1a95"><img src="demos/demo-02.jpg" height="180" alt="点击播放：鹦鹉与肥猫"></a></td>
 </tr>
 <tr>
-<td align="center"><a href="demos/demo-01.mp4">下载演示一原片</a></td>
-<td align="center"><a href="demos/demo-02.mp4">下载演示二原片</a></td>
+<td align="center"><a href="https://github.com/user-attachments/assets/bebda8ef-c458-433f-b5fe-a4be94ce7e21">▶ 观看肥猫与蝴蝶</a></td>
+<td align="center"><a href="https://github.com/user-attachments/assets/4f4012a0-bdc6-4b9d-87dc-2a7f2faf1a95">▶ 观看鹦鹉与肥猫</a></td>
 </tr>
 </table>
+
+<details>
+<summary>▶ 展开播放：肥猫与蝴蝶（横版）</summary>
+
+https://github.com/user-attachments/assets/bebda8ef-c458-433f-b5fe-a4be94ce7e21
+
+</details>
+
+<details>
+<summary>▶ 展开播放：鹦鹉与肥猫（竖版）</summary>
+
+https://github.com/user-attachments/assets/4f4012a0-bdc6-4b9d-87dc-2a7f2faf1a95
+
+</details>
 
 ## 能力与边界
 
