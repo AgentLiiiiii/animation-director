@@ -34,8 +34,8 @@
 <th>图 2：场景参考 · 院子</th>
 </tr>
 <tr>
-<td align="center"><img src="docs/images/character-reference.jpg" height="200" alt="图1：奶奶与小猫角色参考"></td>
-<td align="center"><img src="docs/images/scene-reference.jpg" height="200" alt="图2：院子场景参考"></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/43cabc86-0861-476f-b74e-0e7238a94c97" height="200" alt="图1：奶奶与小猫角色参考"></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/a6af4d17-35ed-434e-9611-8a4f77ecb916" height="200" alt="图2：院子场景参考"></td>
 </tr>
 </table>
 
@@ -56,7 +56,7 @@
 
 **肥猫与蝴蝶 · 横屏 · 15 秒**
 
-<img src="demos/demo-01.jpg" width="480" alt="肥猫与蝴蝶演示封面">
+<img src="https://github.com/user-attachments/assets/ee79f7c3-c34b-4577-9294-344868a6afd0" width="480" alt="肥猫与蝴蝶演示封面">
 
 <details>
 <summary>▶ 点击展开播放器</summary>
@@ -88,5 +88,3 @@ https://github.com/user-attachments/assets/bebda8ef-c458-433f-b5fe-a4be94ce7e21
 - `references/`：动画表演、角色动势、摄影及交付参考
 - `scripts/`：提示词结构校验与测试
 - `agents/openai.yaml`：Agent 展示配置
-- `demos/`：演示短片
-- `docs/images/`：使用示例中的角色与场景参考图
